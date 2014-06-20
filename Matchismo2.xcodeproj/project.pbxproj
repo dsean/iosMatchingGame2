@@ -25,6 +25,7 @@
 		14026D361953CE0F00C20027 /* Deck.m in Sources */ = {isa = PBXBuildFile; fileRef = 14026D351953CE0F00C20027 /* Deck.m */; };
 		14026D391953D1AD00C20027 /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 14026D381953D1AD00C20027 /* PlayingCard.m */; };
 		14026D3C1953D64200C20027 /* PlayingCardDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = 14026D3B1953D64200C20027 /* PlayingCardDeck.m */; };
+		14026D45195406DC00C20027 /* CardMatchingGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 14026D44195406DC00C20027 /* CardMatchingGame.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,8 @@
 		14026D381953D1AD00C20027 /* PlayingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PlayingCard.m; path = Modol/PlayingCard.m; sourceTree = "<group>"; };
 		14026D3A1953D64200C20027 /* PlayingCardDeck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PlayingCardDeck.h; path = Modol/PlayingCardDeck.h; sourceTree = "<group>"; };
 		14026D3B1953D64200C20027 /* PlayingCardDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PlayingCardDeck.m; path = Modol/PlayingCardDeck.m; sourceTree = "<group>"; };
+		14026D43195406DC00C20027 /* CardMatchingGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CardMatchingGame.h; path = Modol/CardMatchingGame.h; sourceTree = "<group>"; };
+		14026D44195406DC00C20027 /* CardMatchingGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CardMatchingGame.m; path = Modol/CardMatchingGame.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +179,8 @@
 				14026D351953CE0F00C20027 /* Deck.m */,
 				14026D3A1953D64200C20027 /* PlayingCardDeck.h */,
 				14026D3B1953D64200C20027 /* PlayingCardDeck.m */,
+				14026D43195406DC00C20027 /* CardMatchingGame.h */,
+				14026D44195406DC00C20027 /* CardMatchingGame.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -282,6 +287,7 @@
 				14026D361953CE0F00C20027 /* Deck.m in Sources */,
 				14026D0C1953C42300C20027 /* CardGameAppDelegate.m in Sources */,
 				14026D121953C42300C20027 /* CardGameViewController.m in Sources */,
+				14026D45195406DC00C20027 /* CardMatchingGame.m in Sources */,
 				14026D3C1953D64200C20027 /* PlayingCardDeck.m in Sources */,
 				14026D081953C42300C20027 /* main.m in Sources */,
 				14026D321953CC9000C20027 /* Card.m in Sources */,
